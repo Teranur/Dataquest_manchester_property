@@ -11,7 +11,7 @@ This repository provides the data and brief for the Manchester Property Sales Ch
 
 ## Background
 This challenge focuses on residential and non-residential property sale prices (Prices Paid) within Greater Manchester, UK. 
-The dataset is a modified, falsified version of the UK Prices Paid data and includes falsified risk information. Do not use it for real-world decisions or analysis.
+The dataset is a modified, falsified version of the UK Prices Paid data. Do not use it for real-world decisions or analysis.
 
 Scope and timeframe:
 - Geographic focus: Greater Manchester only.
