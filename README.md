@@ -17,7 +17,7 @@ Scope and timeframe:
 - Geographic focus: Greater Manchester only.
 - Time period: 01/1996 to 12/2024.
 
-The data is provided in the Data folder as parquet files. It is intentionally unclean and may contain missing values and errors.
+The data is provided in the Data folder as parquet files. This is real world data, there may be missing values and/or errors.
 
 ## The Challenge Questions
 Some questions are intentionally ambiguous; justify your choices and methodology.
