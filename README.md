@@ -40,8 +40,8 @@ You may need to sanitise this dataset. Columns include:
 |--------------------|-------------------------------------------------------------------------------------------------|
 | `id`               | Unique identifier for each transaction                                                          |
 | `price`            | Price paid for the transaction                                                                  |
-| `postcode`         | Postcode of the transaction                                                                     |
 | `date`             | Date of the sale completion                                                                     |
+| `postcode`         | Postcode of the transaction                                                                     |
 | `property_type`    | F - Flat <br/>S - Semi Detached <br/>D - Detached <br/>T - Terraced <br/>O - Other (Non Residential) |
 | `new`              | Y - New Build<br/> N - Old Build                                                                     |
 | `duration`         | F - Freehold<br/> L - Leasehold                                                                      |
