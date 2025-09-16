@@ -27,7 +27,7 @@ Some questions are intentionally ambiguous; justify your choices and methodology
 3. Where do you think in Greater Manchester are the most residential homes being built over the past 10 years?
 4. What was the most expensive non-residential property sold in Greater Manchester in 2017? Find and share context about this sale.
 5. Which residential building types are seeing the biggest proportional rise in prices?
-6. Historically, what property sale(s) in Trafford was the furthest south‑east?
+6. Since 1996, what property sale(s) in Trafford was the furthest south‑east?
 7. Were there any other interesting trends, patterns, or issues you found?
 
 ## The Data
