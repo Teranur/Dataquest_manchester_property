@@ -1,5 +1,5 @@
-# The Manchester Sales Challenge
-This repository provides the data and brief for the Manchester House Sales Challenge. Your task is to explore, clean, and analyse the dataset to answer the questions below and present your findings.
+# The Manchester Property Sales Challenge
+This repository provides the data and brief for the Manchester Property Sales Challenge. Your task is to explore, clean, and analyse the dataset to answer the questions below and present your findings.
 
 ## What you need to deliver
 - Use the data provided in this repository.
