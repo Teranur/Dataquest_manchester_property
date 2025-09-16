@@ -34,6 +34,7 @@ Some questions are intentionally ambiguous; justify your choices and methodology
 Descriptions of the supplied datasets are below.
 
 ### Prices Paid
+[Prices Paid Data](data/pp_data_man.parquet)  
 You may need to sanitise this dataset. Columns include:
 
 | Column             | Description                                                                                     |
@@ -54,6 +55,7 @@ You may need to sanitise this dataset. Columns include:
 | `county`           | County name                                                                                      |
 
 #### Postcodes
+[Postcodes](data/pc_man.parquet)  
 Provides latitude and longitude for each postcode. Columns include:
 
 | Column | Description                                                                                  |
