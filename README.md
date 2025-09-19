@@ -118,6 +118,9 @@ python data_cleaning.py
 4. Open the Jupyter notebook to explore the analysis and cleaning choices:
 jupyter notebook data_cleaning.jup.ipynb
 
+5. Visualizations and analysis done in PowerBI:
+import the cleaned parquet file into PowerBI
+
 ## Contact
 
 Questions or suggestions? Please open an issue in this repository or contact email ch.sobczak97@gmail.com.
