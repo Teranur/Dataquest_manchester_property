@@ -1,6 +1,6 @@
 # Manchester Property Sales Challenge — Submission
 
-This repository contains the data, code, and analysis for the Manchester Property Sales Challenge. The project focuses on exploring, cleaning, and analyzing property sales data for Greater Manchester, using `polars` for data processing and documented in a Jupyter notebook.
+This repository contains the data, code, and analysis for the Manchester Property Sales Challenge. The project focuses on exploring, cleaning, and analyzing property sales data for Greater Manchester, using `polars` for data processingm, documented in a Jupyter notebook and data wrangler for an initial visual analysis.
 
 ---
 
